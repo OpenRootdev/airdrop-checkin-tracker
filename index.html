@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Airdrop Check-in Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="header">
+  <div class="header-top">
+    <h1 data-i18n="title">Airdrop Check-in Tracker</h1>
+    <button id="langToggle" class="lang-btn" type="button" aria-label="Switch language">EN</button>
+  </div>
+  <p class="subtitle" data-i18n="subtitle">Check-in harian, streak tetap jalan.</p>
+  <p class="date" id="todayDate"></p>
+</header>
+
+<main>
+  <section class="summary" id="summary" aria-live="polite"></section>
+
+  <section class="add-form">
+    <input id="newName" type="text" data-i18n-ph="addNamePh" placeholder="Nama proyek, mis. Grass" maxlength="60">
+    <input id="newUrl" type="url" data-i18n-ph="addUrlPh" placeholder="Tautan (opsional)" maxlength="200">
+    <button id="addBtn" type="button" data-i18n="addBtn">+ Tambah</button>
+  </section>
+
+  <section>
+    <ul class="project-list" id="projectList"></ul>
+    <p class="empty" id="emptyMsg" hidden></p>
+  </section>
+
+  <section class="actions">
+    <button id="restoreBtn" type="button" class="ghost-btn" data-i18n="restoreBtn">Pulihkan daftar awal</button>
+    <button id="resetBtn" type="button" class="ghost-btn danger" data-i18n="resetBtn">Hapus semua data</button>
+  </section>
+</main>
+
+<footer>
+  <p data-i18n="footer">Data tersimpan di browser kamu (localStorage). Tidak ada akun, tidak ada server.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
