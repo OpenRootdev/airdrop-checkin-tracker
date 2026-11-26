@@ -3,9 +3,6 @@
 A simple daily check-in checklist for airdrop projects — with streaks.
 No account, no server: all data stays in your browser (localStorage).
 
-> **ID:** Aplikasi checklist check-in harian untuk proyek airdrop — lengkap dengan streak.
-> Tanpa akun, tanpa server: semua data tersimpan di browser kamu (localStorage).
-
 ## Features
 
 - Daily checklist of airdrop projects (14 defaults included)
