@@ -19,6 +19,7 @@ const DEFAULT_PROJECTS = [
   { id: "desea", name: "Desea", url: null },
   { id: "polyester", name: "Polyester", url: null },
   { id: "pear-trade", name: "Pear Trade", url: "https://rewards.pear.trade" },
+  { id: "acepyr", name: "Acepyr", url: "https://www.acepyr.com/" },
   { id: "allscale", name: "AllScale", url: "https://allscale.io" },
   { id: "dachain", name: "DAC Chain", url: "https://dachain.tech" },
   { id: "dialectica", name: "Dialectica", url: null },
