@@ -5,9 +5,9 @@ No account, no server: all data stays in your browser (localStorage).
 
 ## Features
 
-- Daily checklist of airdrop projects (18 defaults included)
+- Daily checklist of airdrop projects (19 defaults included)
 - Streak counter per project (consecutive days, computed from check-in history)
-- Daily progress summary ("X/18 done today")
+- Daily progress summary ("X/19 done today")
 - Add your own projects (name + optional link), delete any project
 - Restore the default project list
 - Bilingual UI: Bahasa Indonesia / English (toggle in the header)
@@ -29,8 +29,8 @@ No account, no server: all data stays in your browser (localStorage).
 ## Default projects
 
 TrendBTC, Thor, Ryfinite, Loqua, MineGrey, Upshot, Deadstock, 9Chain,
-Lake Energy, Neova, Desea, Polyester, Pear Trade, AllScale, DAC Chain,
-Dialectica, Syqora, ZentraOne.
+Lake Energy, Neova, Desea, Polyester, Pear Trade, Acepyr, AllScale,
+DAC Chain, Dialectica, Syqora, ZentraOne.
 
 ## Roadmap
 
