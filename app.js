@@ -17,9 +17,13 @@ const DEFAULT_PROJECTS = [
   { id: "lake-energy", name: "Lake Energy", url: null },
   { id: "neova", name: "Neova", url: null },
   { id: "desea", name: "Desea", url: null },
-  { id: "gleam-xon", name: "Gleam XON", url: null },
   { id: "polyester", name: "Polyester", url: null },
   { id: "pear-trade", name: "Pear Trade", url: "https://rewards.pear.trade" },
+  { id: "allscale", name: "AllScale", url: "https://allscale.io" },
+  { id: "dachain", name: "DAC Chain", url: "https://dachain.tech" },
+  { id: "dialectica", name: "Dialectica", url: null },
+  { id: "syqora", name: "Syqora", url: "https://airdrop.syqora.app" },
+  { id: "zentraone", name: "ZentraOne", url: "https://app.zentraone.xyz" },
 ];
 
 const I18N = {
