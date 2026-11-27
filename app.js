@@ -25,6 +25,7 @@ const DEFAULT_PROJECTS = [
   { id: "kaisar", name: "Kaisar", url: "https://app.kaisar.io" },
   { id: "cherry-fun", name: "Cherry.fun", url: "https://chat.cherry.fun/" },
   { id: "orange-dynasty", name: "Orange Dynasty", url: "https://orange.sign.global/app" },
+  { id: "layer3", name: "Layer3", url: "https://layer3.xyz" },
   { id: "allscale", name: "AllScale", url: "https://allscale.io" },
   { id: "dachain", name: "DAC Chain", url: "https://dachain.tech" },
   { id: "dialectica", name: "Dialectica", url: null },
