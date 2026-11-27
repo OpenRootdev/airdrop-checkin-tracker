@@ -24,6 +24,7 @@ const DEFAULT_PROJECTS = [
   { id: "flop", name: "Flop", url: "https://technocore.chat/r/faucet" },
   { id: "kaisar", name: "Kaisar", url: "https://app.kaisar.io" },
   { id: "cherry-fun", name: "Cherry.fun", url: "https://chat.cherry.fun/" },
+  { id: "orange-dynasty", name: "Orange Dynasty", url: "https://orange.sign.global/app" },
   { id: "allscale", name: "AllScale", url: "https://allscale.io" },
   { id: "dachain", name: "DAC Chain", url: "https://dachain.tech" },
   { id: "dialectica", name: "Dialectica", url: null },
